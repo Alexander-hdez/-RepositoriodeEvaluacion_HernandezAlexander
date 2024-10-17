@@ -1,0 +1,6 @@
+
+Alexander Hernandez Escobedo 
+
+Este repositorio lo creeo para que otros programadores de otros lugares puedan ver mi 
+codigo y les sirva de ayuda para realizar sus poprios codigos de sus propios proyectos,
+esto es para apoyarnos entre todos.
